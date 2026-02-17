@@ -1,0 +1,28 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run dev:*)",
+      "Bash(curl:*)",
+      "Read(//c/Users/alex.vale_predictx/.claude/**)",
+      "Bash(node -e:*)",
+      "Bash(gh auth status:*)",
+      "Bash(npm run build:*)",
+      "mcp__plugin_oh-my-claudecode_t__lsp_diagnostics",
+      "Bash(npx tsc:*)",
+      "Bash(timeout 10 bash -c 'tail -f C:\\\\Users\\\\ALEX~1.VAL\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\c--Users-alex-vale-predictx-Workspaces-claude-code-first-project\\\\tasks\\\\bdda8b7.output 2>/dev/null || cat C:\\\\Users\\\\ALEX~1.VAL\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\c--Users-alex-vale-predictx-Workspaces-claude-code-first-project\\\\tasks\\\\bdda8b7.output')",
+      "Bash(timeout:*)",
+      "Bash(ls:*)",
+      "Bash(taskkill:*)",
+      "Bash(netstat:*)",
+      "Bash(findstr:*)",
+      "Bash(start /B npm run dev:*)",
+      "Bash(npm test:*)",
+      "Bash(test:*)"
+    ],
+    "additionalDirectories": [
+      "C:\\Users\\alex.vale_predictx\\.claude",
+      "C:\\Users\\alex.vale_predictx\\.claude\\hud",
+      "C:\\Users\\alex.vale_predictx\\.claude\\.omc"
+    ]
+  }
+}

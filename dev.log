@@ -1,0 +1,73 @@
+
+> personal-website@0.1.0 dev
+> next dev
+
+ ⚠ Port 3000 is in use by process 14584, using available port 3001 instead.
+   ▲ Next.js 15.5.12
+   - Local:        http://localhost:3001
+   - Network:      http://10.20.11.142:3001
+
+ ✓ Starting...
+ ✓ Ready in 2.7s
+ ○ Compiling /holidays ...
+ ✓ Compiled /holidays in 16.7s (2895 modules)
+ GET /holidays 200 in 17598ms
+ ✓ Compiled in 1049ms (1379 modules)
+ ✓ Compiled in 2.3s (2872 modules)
+ ✓ Compiled in 1997ms (2886 modules)
+ GET /holidays 200 in 222ms
+ ✓ Compiled in 228ms (1365 modules)
+ ✓ Compiled in 385ms (1365 modules)
+ ✓ Compiled in 398ms (1379 modules)
+ ✓ Compiled in 502ms (1379 modules)
+ GET /holidays 200 in 514ms
+ GET /holidays 200 in 90ms
+ ✓ Compiled in 190ms (1365 modules)
+ ✓ Compiled in 525ms (1379 modules)
+ GET /holidays 200 in 93ms
+ ✓ Compiled in 325ms (1379 modules)
+ GET /holidays 200 in 69ms
+ ✓ Compiled in 314ms (1379 modules)
+ GET /holidays 200 in 63ms
+ ✓ Compiled in 439ms (1379 modules)
+ GET /holidays 200 in 62ms
+ ✓ Compiled in 251ms (1379 modules)
+ GET /holidays 200 in 47ms
+ ✓ Compiled in 295ms (1379 modules)
+ GET /holidays 200 in 50ms
+ ✓ Compiled in 254ms (1379 modules)
+ GET /holidays 200 in 44ms
+ ✓ Compiled in 440ms (1379 modules)
+ GET /holidays 200 in 64ms
+ ✓ Compiled in 287ms (1379 modules)
+ GET /holidays 200 in 46ms
+ ✓ Compiled in 343ms (1379 modules)
+ GET /holidays 200 in 56ms
+ ✓ Compiled in 300ms (1379 modules)
+ GET /holidays 200 in 62ms
+ ✓ Compiled in 488ms (1379 modules)
+ GET /holidays 200 in 71ms
+ ✓ Compiled in 346ms (1379 modules)
+ GET /holidays 200 in 61ms
+ ✓ Compiled in 283ms (1379 modules)
+ GET /holidays 200 in 89ms
+ ✓ Compiled in 412ms (1379 modules)
+ GET /holidays 200 in 57ms
+ ✓ Compiled in 406ms (1379 modules)
+ GET /holidays 200 in 59ms
+ ✓ Compiled in 375ms (1379 modules)
+ GET /holidays 200 in 71ms
+ ✓ Compiled in 332ms (1379 modules)
+ GET /holidays 200 in 105ms
+ ✓ Compiled in 367ms (1379 modules)
+ GET /holidays 200 in 68ms
+ ✓ Compiled in 276ms (1379 modules)
+ GET /holidays 200 in 62ms
+ ✓ Compiled in 285ms (1379 modules)
+ GET /holidays 200 in 54ms
+ ✓ Compiled in 376ms (1379 modules)
+ GET /holidays 200 in 49ms
+ GET /holidays 200 in 551ms
+ ✓ Compiled in 2.9s (2886 modules)
+ GET /holidays 200 in 170ms
+ GET /holidays 200 in 611ms
